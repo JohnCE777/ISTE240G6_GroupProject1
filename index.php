@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Group 6 ISTE-240 Project 1</title>
-    <link rel="stylesheet" type="text/css" href="Assets/Stylesheets/style.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 </head>
 <body>
     <header>
         <nav class="topNav">
-            <a href="index.html" class="selectedNav">Home</a>
-            <a href="html/principles.html">Principles</a>
-            <a href="html/accessability.html">Accessability</a>
-            <a href="html/about.html">About</a>
+            <a href="index.pgp" class="selectedNav">Home</a>
+            <a href="principles.pgp">Principles</a>
+            <a href="accessability.php">Accessability</a>
+            <a href="about.php">About</a>
         </nav>
     </header>
     <main>
@@ -30,7 +30,7 @@
                     to retain everything they see, all without the user ever being aware of it. 
                 </p>
             </div>
-            <img id="CRAPlogo" src="Assets/media/CRAPlogo.png" alt="CRAP Logo Photo">
+            <img id="CRAPlogo" src="assets/media/CRAPlogo.png" alt="CRAP Logo Photo">
         </section>
         
         
