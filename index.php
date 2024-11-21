@@ -19,10 +19,7 @@
             </div>
             <img id="CRAPlogo" src="assets/media/CRAPlogo.png" alt="CRAP Logo Photo">
         </section>
-        
-        
-
     </main>
-
-</body>
-</html>
+<?php
+    require_once("assets/inc/footer.inc.php");
+?>
