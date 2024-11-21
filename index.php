@@ -1,4 +1,5 @@
 <?php
+    $title = "Home"
     require_once("assets/inc/header.inc.php");
 ?>
     <main>
