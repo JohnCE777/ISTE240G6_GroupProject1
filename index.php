@@ -1,3 +1,6 @@
+<?php
+    include './Assets/inc/header.inc.php';
+?>
 
     <main>
         <section id="sec1">
