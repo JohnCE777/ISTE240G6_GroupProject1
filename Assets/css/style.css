@@ -1,24 +1,39 @@
+@import url("./fonts.css");
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: "Raleway";
     font-size: 1.1rem;
     background-color: #F0FBFF;
     color: #000000;
+    width: 100%;
 }
 
-#introText{
-    max-width: 60%;
+main {
+    width: 80%;
+    margin: 0 auto;
 }
 
-#CRAPlogo{
-    width: 269px;
-    height: 158px;
+h1 {
+    font-size: 64px;
+    font-weight: 200;
+    margin: 20px 0;
 }
 
-#sec1{
+p {
+    font-size: 18px;
+    font-weight: 100;
+}
+
+#landing-section {
     display: flex;
-    gap: 10%;
-    flex-wrap: wrap;
+    gap: 5%;
     margin-top: 100px;
+    width: 100%;
+}
+
+#logo {
+    height: max-content;
+    width: 40%;
 }
 
 nav {
@@ -42,7 +57,7 @@ nav ul {
 }
 
 nav ul li a:hover {
-    color: #DB80B6;
+    color: #22223B;
 }
 
 nav ul li a {

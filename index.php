@@ -3,8 +3,8 @@
 ?>
 
     <main>
-        <section id="sec1">
-            <div id="introText">
+        <section id="landing-section">
+            <div>
                 <h1>The Crap Principles</h1>
                 <p>
                     Defined by American author and educator Robin Patricia Williams in her 1994 work The Non-Designer’s
@@ -17,9 +17,14 @@
                     to retain everything they see, all without the user ever being aware of it. 
                 </p>
             </div>
-            <img id="CRAPlogo" src="assets/media/CRAPlogo.png" alt="CRAP Logo Photo">
+            <img id="logo" src="assets/media/logo.png" alt="CRAP Logo Photo">
         </section>
+        <!-- TODO -->
+        <div class="principle-section"></div>
+        <div class="principle-section"></div>
+        <div class="principle-section"></div>
+        <div class="principle-section"></div>
     </main>
 <?php
-    require_once("assets/inc/footer.inc.php");
+    require_once("Assets/inc/footer.inc.php");
 ?>
