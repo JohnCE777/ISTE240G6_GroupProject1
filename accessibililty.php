@@ -2,6 +2,7 @@
     include './Assets/inc/header.inc.php';
 ?>
     <main>
+        <h1>Accessibility</h1>
         <p>
         Accessibility is often neglected by developers when creating their websites. Often
         simple changes are overlooked that would make their website more accessible and
@@ -47,6 +48,10 @@
         all audiences understand the content. To further this along including
         images to describe the topic visually.
         </p>
+        <div id="accessiblity" class="off">
+            <p>test</p>
+        </div>
+        <button onclick="accessibility()">test</button>
     </main>
 <?php
     require_once("Assets/inc/footer.inc.php");

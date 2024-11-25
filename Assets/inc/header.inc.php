@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Group 6 ISTE-240 Project 1</title>
 
-    <link rel="stylesheet" href="./Assets/css/style.css">
+    <link rel="stylesheet" href="Assets/css/style.css">
+    <script src="Assets/scripts/tools.js"></script>
 </head>
 <body>
     <header>

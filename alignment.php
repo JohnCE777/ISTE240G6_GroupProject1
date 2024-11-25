@@ -2,6 +2,7 @@
     include './Assets/inc/header.inc.php';
 ?>
     <main>
+        <h1>Allignment</h1>
         <p>
         ○ Alignment refers to the intentional arrangement of elements in a design to make
         visually appealing and harmonious layouts. Making sure that the elements on a
@@ -26,6 +27,10 @@
         they will stay for long. A website is pointless if nobody stays long enough to read
         and understand the content.
         </p>
+        <div id="alignment"class="off">
+            <p>test</p>
+        </div>
+        <button onclick="alignment()">test</button>
     </main>
 <?php
     require_once("Assets/inc/footer.inc.php");

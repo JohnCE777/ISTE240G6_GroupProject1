@@ -2,6 +2,7 @@
     include './Assets/inc/header.inc.php';
 ?>
     <main>
+        <h1>About</h1>
         <p>
         About This Site
         ○ Front-end designers are responsible for a great deal more than simply ensuring

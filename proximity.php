@@ -2,6 +2,7 @@
     include './Assets/inc/header.inc.php';
 ?>
     <main>
+        <h1>Proximity</h1>
         <p>
         ○ The concept of proximity in design emphasizes that elements which are related to
         one another should be grouped together, while elements that are unrelated or serve
@@ -22,6 +23,10 @@
         time again to be an important tool at a web developer's disposal
         </p>
     </main>
+    <div id="proximity" class="off">
+        <p>test</p>
+    </div>
+    <button onclick="proximity()">test</button>
 <?php
     require_once("Assets/inc/footer.inc.php");
 ?>

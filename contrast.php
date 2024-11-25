@@ -2,6 +2,7 @@
     include './Assets/inc/header.inc.php';
 ?>
     <main>
+        <h1>Contrast</h1>
         <p>
         ○ The appropriate colors, size, and shape can make a significant difference in
         attracting the users attention to certain elements of the webpage they may be
@@ -26,6 +27,10 @@
         (Web Content Accessibility Guidelines, a W3C backed accessibility standard)
         standards for text contrast.
         </p>
+        <div id="contrast" class="off">
+            <p>test</p>
+        </div>
+        <button onclick="contrast()">test</button>
     </main>
 <?php
     require_once("Assets/inc/footer.inc.php");
