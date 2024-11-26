@@ -1,0 +1,5 @@
+AuthName "Restricted Area" 
+AuthType Basic
+#Put the path to your htpasswd file. This will be different, put in your username instead of jxtadm
+AuthUserFile /home/iste240t11/Sites/groupProject/ISTE240G6_GroupProject1/protected/.htpasswrd
+require valid-user

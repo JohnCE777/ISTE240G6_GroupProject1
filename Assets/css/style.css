@@ -106,3 +106,8 @@ div#proximity.off {
 div#proximity.on {
     background-color: green;
 }
+
+.request {
+    margin-bottom: 20px;
+    border-bottom: black solid 1px;
+}
