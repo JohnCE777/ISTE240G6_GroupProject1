@@ -1,3 +1,8 @@
+<?php
+    require_once("Assets/inc/connection.inc.php");
+    require_once("Assets/inc/validations.inc.php");
+    require_once("Assets/inc/tools.inc.php");
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
