@@ -2,7 +2,9 @@
     require_once("./Assets/inc/header.inc.php");
 ?>
     <main>
-
+    <?php
+        require_once("Assets/inc/alignmentQuiz.inc.php");
+        ?>
     </main>
 <?php
     require_once("Assets/inc/footer.inc.php");

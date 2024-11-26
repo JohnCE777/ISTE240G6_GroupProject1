@@ -16,6 +16,17 @@
 
     if(!emailCheck($email) || !$name || !$phone)
     {
+        echo '<h3> enter valid email </h3>';
+        exit;
+    }
+    if(!$name)
+    {
+        echo '<h3> enter valid name </h3>';
+        exit;
+    }
+    if(!$phone)
+    {
+        echo '<h3> enter valid phone number </h3>';
         exit;
     }
 

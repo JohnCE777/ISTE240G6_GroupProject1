@@ -3,7 +3,7 @@
 ?>
     <main>
         <?php
-        require_once("Assets/inc/quiz.inc.php");
+        require_once("Assets/inc/accessibilityQuiz.inc.php");
         ?>
     </main>
 <?php
