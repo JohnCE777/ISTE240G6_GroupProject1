@@ -1,11 +1,11 @@
 <?php
-    require_once("./Assets/inc/header.inc.php");
+    require_once("assets/inc/header.inc.php");
 ?>
     <main>
         <?php
-        require_once("Assets/inc/accessibilityQuiz.inc.php");
+        require_once("assets/inc/accessibilityQuiz.inc.php");
         ?>
     </main>
 <?php
-    require_once("Assets/inc/footer.inc.php");
+    require_once("assets/inc/footer.inc.php");
 ?>

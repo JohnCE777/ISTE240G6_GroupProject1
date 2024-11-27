@@ -1,5 +1,5 @@
 <?php
-    include './Assets/inc/header.inc.php';
+    require_once("assets/inc/header.inc.php");
 ?>
     <main>
         <h1>Proximity</h1>
@@ -28,5 +28,5 @@
     </div>
     <button onclick="proximity()">test</button>
 <?php
-    require_once("Assets/inc/footer.inc.php");
+    require_once("assets/inc/footer.inc.php");
 ?>

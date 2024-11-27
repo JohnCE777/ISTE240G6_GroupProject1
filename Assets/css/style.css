@@ -111,3 +111,13 @@ div#proximity.on {
     margin-bottom: 20px;
     border-bottom: black solid 1px;
 }
+
+.success {
+    text-align: center;
+    background-color: green;
+}
+
+.alert {
+    text-align: center;
+    background-color: red;
+}

@@ -1,4 +1,4 @@
-<form name="contactForm" action="landing.php" onsubmit="return validateForm();" method="POST">
+<form name="contactForm" action="contact.php" onsubmit="return validateForm();" method="POST">
     <label for="email">Email:</label>
     <input type="text" id="email" name="email">
     <br>

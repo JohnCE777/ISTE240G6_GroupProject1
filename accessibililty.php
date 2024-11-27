@@ -1,5 +1,5 @@
 <?php
-    include './Assets/inc/header.inc.php';
+    require_once("assets/inc/header.inc.php");
 ?>
     <main>
         <h1>Accessibility</h1>
@@ -54,5 +54,5 @@
         <button onclick="accessibility()">test</button>
     </main>
 <?php
-    require_once("Assets/inc/footer.inc.php");
+    require_once("assets/inc/footer.inc.php");
 ?>

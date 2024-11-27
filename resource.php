@@ -1,9 +1,9 @@
 <?php
-    include './Assets/inc/header.inc.php';
+    require_once("assets/inc/header.inc.php");
 ?>
     <main>
         
     </main>
 <?php
-    require_once("Assets/inc/footer.inc.php");
+    require_once("assets/inc/footer.inc.php");
 ?>

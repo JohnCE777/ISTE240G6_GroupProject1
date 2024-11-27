@@ -1,5 +1,5 @@
 <?php
-    include './Assets/inc/header.inc.php';
+    require_once("assets/inc/header.inc.php");
 ?>
     <main>
         <h1>Allignment</h1>
@@ -33,5 +33,5 @@
         <button onclick="alignment()">test</button>
     </main>
 <?php
-    require_once("Assets/inc/footer.inc.php");
+    require_once("assets/inc/footer.inc.php");
 ?>
