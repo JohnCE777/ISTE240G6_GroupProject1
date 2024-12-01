@@ -1,0 +1,130 @@
+nav {
+    text-decoration: none;
+    background-color: rgb(156, 173, 188);
+    font-family: "Raleway";
+    font-weight: 100;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav ul {
+    /* justify-content: center; */
+    width: 100%;
+    list-style: none;
+}
+
+@media screen and (min-width: 800px) {
+    nav {
+        display: flex;
+        align-items: center;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 0;
+        margin: 0 auto;
+        width: 100%;
+        z-index: 5;
+    }
+    nav ul {
+        display: flex;
+        align-items: center;
+        list-style: none;
+        padding: 0;
+        gap: 120px;
+        /* color: white; */
+        font-size: 16px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    nav ul li {
+        padding: 30px 0;
+        cursor: pointer;
+    }
+    .dropdown {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        background-color: white;
+        box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+        padding: 20px 15px;
+        margin-top: 10px;
+        border-radius: 10px;
+        gap: 15px;
+        z-index: 1;
+    }
+    .dropdown a {
+        color: black;
+    }
+    #principles:hover .dropdown {
+        display: flex;
+    }
+    .dropdown:hover .dropdown {
+        display: flex;
+    }
+    .dropdown a:hover,
+    #home a:hover,
+    #about a:hover {
+        color: #DB80B6 !important;
+    }
+    #hamburger,
+    #x,
+    .dropdown-arrow {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    nav {
+        display: flex;
+        justify-content: flex-end;
+        position: sticky;
+        z-index: inherit;
+    }
+    nav ul {
+        display: none;
+        flex-direction: column;
+        align-items: start;
+        padding: 20px 0;
+        gap: 40px;
+        margin-left: 4%;
+        color: black;
+        font-size: 20px;
+    }
+    nav ul li {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        gap: 15px;
+    }
+    nav ul li span {
+        font-weight: bold;
+    }
+    .dropdown {
+        display: flex;
+        flex-direction: column;
+        font-size: 18px;
+        gap: 10px;
+    }
+    .dropdown-arrow {
+        height: 20px;
+    }
+    .dropdown a:hover,
+    #home a:hover,
+    #about a:hover {
+        color: #DB80B6;
+    }
+    #hamburger,
+    #x {
+        height: 40px;
+        width: 40px;
+        padding: 10px 0;
+        margin-right: 30px;
+        cursor: pointer;
+    }
+    #x {
+        display: none;
+    }
+}

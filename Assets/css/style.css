@@ -1,4 +1,5 @@
 @import url("./fonts.css");
+@import url("./navbar.css");
 body {
     /* font-family: Arial, Helvetica, sans-serif; */
     font-family: "Raleway";
@@ -6,6 +7,8 @@ body {
     background-color: #F0FBFF;
     color: #000000;
     width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 main {
@@ -35,35 +38,6 @@ p {
 #logo {
     height: max-content;
     width: 40%;
-}
-
-nav {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 0;
-    margin: 0 auto;
-    background-color: rgb(156, 173, 188);
-    padding: 30px 0;
-    width: 100%;
-}
-
-nav ul {
-    display: flex;
-    gap: 60px;
-    list-style-type: none;
-    padding: 0;
-    width: 80%;
-    margin: 0 auto;
-}
-
-nav ul li a:hover {
-    color: #22223B;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
 }
 
 /* css for togglable examples */

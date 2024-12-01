@@ -12,15 +12,30 @@
 
     <link rel="stylesheet" href="Assets/css/style.css">
     <script src="Assets/scripts/tools.js"></script>
+    <script src="Assets/scripts/navbar.js"></script>
 </head>
 <body>
     <header>
         <nav>
-            <ul>
-                <li><a href="./home">Home</a></li>
-                <li><a href="./principles">Principles</a></li>
-                <li><a href="./about">About</a></li>
+            <ul id="navbar-list">
+                <li id="home"><a href="./home.php">Home</a></li>
+                <li id="principles">
+                    <span>Principles</span>
+                    <div class="dropdown">
+                        <a href="./contrast.php">Contrast</a>
+                        <a href="./repetition.php">Repetition</a>
+                        <a href="./alignment.php">Alignment</a>
+                        <a href="./proximity">Proximity</a>
+                    </div>
+                </li>
+                <li id="about"><a href="./about.php">About</a></li>
             </ul>
+            <img
+                src="./Assets/media/hamburger.svg"
+                onclick="openNav();"
+                id="hamburger"
+            />
+            <img src="./Assets/media/x.svg" onclick="closeNav();" id="x" />
         </nav>
     </header>
 </body>
