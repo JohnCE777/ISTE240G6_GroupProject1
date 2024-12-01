@@ -121,3 +121,22 @@ div#proximity.on {
     text-align: center;
     background-color: red;
 }
+
+footer{
+    display: flex;
+    margin-left: 5%;
+    gap: 5%;
+}
+
+footer> a {
+    text-align: center;
+    width: 400px;
+    background-color: #b7b7b7;
+    color: #FFFFFF;
+    text-decoration: none; /* Gets rid of underline for <a> tags */
+}
+
+footer> a:hover {
+    background-color: #976314;
+    transform: scale(1.05);
+}

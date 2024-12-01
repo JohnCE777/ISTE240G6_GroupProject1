@@ -1,10 +1,8 @@
-        <footer class="foot">
-            <ul>
-                <li class="footerClass"><a href="#">About</a></li>
-                <li class="footerClass"><a href="#">Accessability</a></li>
-                <li class="footerClass"><a href="#">Contact</a></li>
-                <li class="footerClass"><a href="#">Other Thing</a></li>
-            </ul>
+        <footer>
+            <a href="about.php">About</a>
+            <a href="accessibility.php">Accessability</a>
+            <a href="cantact.php">Contact</a>
+            <a href="#">Other Thing</a>
             
         </footer>    
     
