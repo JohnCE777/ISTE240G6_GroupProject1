@@ -18,7 +18,7 @@
     <header>
         <nav>
             <ul id="navbar-list">
-                <li id="home"><a href="./home.php">Home</a></li>
+                <li id="home"><a href="./index.php">Home</a></li>
                 <li id="principles">
                     <span>Principles</span>
                     <div class="dropdown">

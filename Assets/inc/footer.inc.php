@@ -1,5 +1,4 @@
         <footer>
-            <link rel="stylesheet" type="text/css" href="./Assets/css/footer.css">
             <div class="footer-container">
                 <div class="footer-links">
                     <ul>
