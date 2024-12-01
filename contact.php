@@ -9,7 +9,8 @@
         global $mysqli, $error;
 
         if($mysqli -> connect_errno) {
-            exit;
+            $error = "connection error";
+            return false;
         }
 
         $stmt = $mysqli->prepare("INSERT INTO Contact (`Name`, `Email`, `Phone`) VALUES (?, ?, ?)");
@@ -36,7 +37,7 @@
         {
             $error = "Invalid " . $error; 
             rtrim($error, ",");
-            return true;
+            return false;
         }
 
         $stmt->execute();

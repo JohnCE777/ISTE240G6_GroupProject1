@@ -84,7 +84,6 @@ function validateForm() {
     email.style.backgroundColor = "white";
     name.style.backgroundColor = "white";
     phone.style.backgroundColor = "white";
-    console.log(pattern.test(email.value));
     if(!pattern.test(email.value))
     {
         email.style.backgroundColor = "pink";

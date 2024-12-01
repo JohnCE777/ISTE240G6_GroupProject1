@@ -96,6 +96,6 @@
     </fieldset>
     <div>
     	<button onclick="validateQuiz()">submit</button>
-        <h3 id="score">placeholder</h3>
+        <h3 id="score">score:</h3>
     </div>
 </div>
