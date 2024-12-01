@@ -4,7 +4,7 @@
     <main>
         <h1>Allignment</h1>
         <p>
-        ○ Alignment refers to the intentional arrangement of elements in a design to make
+        Alignment refers to the intentional arrangement of elements in a design to make
         visually appealing and harmonious layouts. Making sure that the elements on a
         page are properly aligned helps guide the user’s attention across the site. This
         directs their attention to the most important parts of the site and creates a logical
@@ -12,6 +12,8 @@
         to text, images, and all other content the user sees when visiting the site. This
         concept goes hand in hand with repetition by contributing to a clean and
         structured look.
+        </p>
+        <p>
         ○ Aside from the functional benefits of proper alignment plays a crucial role in
         conveying professionalism and attention to detail. A site with logically aligned
         elements feels polished and cohesive. This aids in the building of trust with the
@@ -20,6 +22,8 @@
         and haphazard. By aligning elements in a thoughtful and consistent manner,
         designers improve the visual presentation of the site helping with both usability
         and the overall aesthetic of the site.
+        </p>
+        <p>
         ○ According to David Zheng, a writer for the Daily Egg, a web analytics company,
         when users visit a website, they will leave if the content has not piqued their
         interest enough within 15 seconds. This is known as the 15 second rule. If users
