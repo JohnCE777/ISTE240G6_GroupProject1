@@ -48,7 +48,7 @@
                 <h2>Image Examples</h2>
                 <div class="principle-example-wrapper">
                     <img id="repeititon-example-image-good" src="./assets/media/examples/repetition-good.png" alt="Repetition good example">
-                    <img id="repeititon-example-image-good" src="./assets/media/examples/repetition-bad.png" alt="Repetition bad example">
+                    <img id="repeititon-example-image-bad" src="./assets/media/examples/repetition-bad.png" alt="Repetition bad example">
                 </div> 
             </div>
         </section>
