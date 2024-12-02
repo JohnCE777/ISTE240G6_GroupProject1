@@ -1,21 +1,15 @@
-function accessibility() {
+function interactiveExample() {
+    var picOne = document.getElementById("example-image-good");
+    var picTwo = document.getElementById("example-image-bad");
     
-}
-
-function contrast() {
-    
-}
-
-function repetition() {
-    
-}
-
-function alignment() {
-    
-}
-
-function proximity() {
-    
+    if(picOne.style.display === "none")
+    {
+        picOne.style.display = "flex";
+        picTwo.style.display = "none";
+    } else {
+        picOne.style.display = "none";
+        picTwo.style.display = "flex";
+    }
 }
 
 function validateQuiz() {

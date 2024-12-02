@@ -61,10 +61,6 @@
         all audiences understand the content. To further this along including
         images to describe the topic visually.
         </p>
-        <div id="accessiblity" class="off">
-            <p>test</p>
-        </div>
-        <button onclick="accessibility()">test</button>
     </main>
 <?php
     require_once("assets/inc/footer.inc.php");

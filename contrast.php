@@ -53,11 +53,11 @@
                     people will struggle to read your site. 
                 </p>
             </div>
-            <div class="principle-example" id="principle-clicker">
+            <div class="principle-example" id="principle-clicker" onclick="interactiveExample()">
                 <h2>Image Examples</h2>
                 <div class="principle-example-wrapper">
-                    <img id="contrast-example-image-good" src="./assets/media/examples/contrast-good.png" alt="Contrast good example">
-                    <img id="contrast-example-image-bad" src="./assets/media/examples/contrast-bad.png" alt="Contrast bad example">
+                    <img id="example-image-good" src="./assets/media/examples/contrast-good.png" alt="Contrast good example">
+                    <img id="example-image-bad" src="./assets/media/examples/contrast-bad.png" alt="Contrast bad example">
                 </div>
             </div>
         </section>

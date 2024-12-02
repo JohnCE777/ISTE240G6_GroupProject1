@@ -49,12 +49,12 @@
     cursor: pointer;
 }
 
-#contrast-example-image-good {
+#example-image-good {
     display: flex;
     height: 180px;
 }
 
-#contrast-example-image-bad {
+#example-image-bad {
     display: none;
     height: 180px;
 }

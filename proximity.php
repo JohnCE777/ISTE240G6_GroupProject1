@@ -51,11 +51,11 @@
                     of proximity.
                 </p>
             </div>
-            <div class="principle-example">
+            <div class="principle-example" onclick="interactiveExample()">
                 <h2>Image Examples</h2>
                 <div class="principle-example-wrapper">
-                    <img id="proximity-example-image-good" src="./assets/media/examples/proximity-good.png" alt="Proximity good example">
-                    <img id="proximity-example-image-bad" src="./assets/media/examples/proximity-bad.png" alt="Proximity bad example">
+                    <img id="example-image-good" src="./assets/media/examples/proximity-good.png" alt="Proximity good example">
+                    <img id="example-image-bad" src="./assets/media/examples/proximity-bad.png" alt="Proximity bad example">
                 </div>
             </div>
         </section>
