@@ -1,3 +1,16 @@
+#landing-section {
+    display: flex;
+    gap: 5%;
+    margin-top: 100px;
+    width: 100%;
+    align-items: center;
+}
+
+#logo {
+    height: max-content;
+    width: 40%;
+}
+
 .principles {
     display: flex;
     flex-direction: column;
@@ -64,6 +77,16 @@
 }
 
 @media screen and (max-width: 1200px) {
+    #landing-section {
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+
+    #logo {
+        width: 100%;
+    }
+
     .principle-img-text {
         align-items: center;
         text-align: center;

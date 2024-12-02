@@ -25,7 +25,7 @@
                         <a href="./contrast.php">Contrast</a>
                         <a href="./repetition.php">Repetition</a>
                         <a href="./alignment.php">Alignment</a>
-                        <a href="./proximity">Proximity</a>
+                        <a href="./proximity.php">Proximity</a>
                     </div>
                 </li>
                 <li id="about"><a href="./about.php">About</a></li>

@@ -29,18 +29,6 @@ p {
     font-weight: 100;
 }
 
-#landing-section {
-    display: flex;
-    gap: 5%;
-    margin-top: 100px;
-    width: 100%;
-}
-
-#logo {
-    height: max-content;
-    width: 40%;
-}
-
 /* css for togglable examples */
 div#accessiblity.off {
     background-color: red;
@@ -95,23 +83,4 @@ div#proximity.on {
 .alert {
     text-align: center;
     background-color: red;
-}
-
-footer{
-    display: flex;
-    margin-left: 5%;
-    gap: 5%;
-}
-
-footer> a {
-    text-align: center;
-    width: 400px;
-    background-color: #b7b7b7;
-    color: #FFFFFF;
-    text-decoration: none; /* Gets rid of underline for <a> tags */
-}
-
-footer> a:hover {
-    background-color: #976314;
-    transform: scale(1.05);
 }
