@@ -1,7 +1,6 @@
 <?php
     require_once("assets/inc/header.inc.php");
 ?>
-    <link rel="stylesheet" href="assets/css/index.css">
     <main>
         <section id="landing-section">
             <div>

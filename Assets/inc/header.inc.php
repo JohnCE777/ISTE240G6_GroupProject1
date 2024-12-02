@@ -1,7 +1,7 @@
 <?php
-    require_once("Assets/inc/connection.inc.php");
-    require_once("Assets/inc/validations.inc.php");
-    require_once("Assets/inc/tools.inc.php");
+    require_once("assets/inc/connection.inc.php");
+    require_once("assets/inc/validations.inc.php");
+    require_once("assets/inc/tools.inc.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -10,9 +10,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Group 6 ISTE-240 Project 1</title>
 
-    <link rel="stylesheet" href="Assets/css/style.css">
-    <script src="Assets/scripts/tools.js"></script>
-    <script src="Assets/scripts/navbar.js"></script>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/scripts/tools.js"></script>
+    <script src="assets/scripts/navbar.js"></script>
 </head>
 <body>
     <header>
@@ -31,11 +31,11 @@
                 <li id="about"><a href="./about.php">About</a></li>
             </ul>
             <img
-                src="./Assets/media/hamburger.svg"
+                src="./assets/media/hamburger.svg"
                 onclick="openNav();"
                 id="hamburger"
             />
-            <img src="./Assets/media/x.svg" onclick="closeNav();" id="x" />
+            <img src="./assets/media/x.svg" onclick="closeNav();" id="x" />
         </nav>
     </header>
 </body>

@@ -1,7 +1,7 @@
 <?php
     require_once("assets/inc/header.inc.php");
 ?>
-    <link rel="stylesheet" href="./Assets/css/priciples.css">
+    <link rel="stylesheet" href="./assets/css/priciples.css">
     <main>
         <section>
             <div class="principle-text-img">
@@ -27,7 +27,7 @@
                         of the site helping with both usability and the overall aesthetic of the site.
                     </p>
                 </div>
-                <img src="./Assets/media/alignment.png" alt="Alignment">
+                <img src="./assets/media/alignment.png" alt="Alignment">
             </div>
             <p>
                 According to David Zheng, a writer for the Daily Egg, a web analytics company, when 

@@ -1,7 +1,7 @@
 <?php
     require_once("assets/inc/header.inc.php");
 ?>
-    <link rel="stylesheet" href="./Assets/css/priciples.css">
+    <link rel="stylesheet" href="./assets/css/priciples.css">
     <main>
         <section>
             <div class="principle-text-img">
@@ -26,7 +26,7 @@
                         making you recognizable against competitors. 
                     </p>
                 </div>
-                <img src="./Assets/media/repetition.png" alt="Repetition">
+                <img src="./assets/media/repetition.png" alt="Repetition">
             </div>
         </section>
         <section class="principle-examples">

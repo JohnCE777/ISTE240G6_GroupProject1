@@ -1,7 +1,7 @@
 <?php
     require_once("assets/inc/header.inc.php");
 ?>
-    <link rel="stylesheet" href="./Assets/css/priciples.css">
+    <link rel="stylesheet" href="./assets/css/priciples.css">
     <main>
         <section>
             <div class="principle-text-img">
@@ -31,7 +31,7 @@
                         developer's disposal.
                     </p>
                 </div>
-                <img src="./Assets/media/proximity.png" alt="Proximity">
+                <img src="./assets/media/proximity.png" alt="Proximity">
             </div>
         </section>
         <section class="principle-examples">

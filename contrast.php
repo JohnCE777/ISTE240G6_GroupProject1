@@ -1,7 +1,7 @@
 <?php
     require_once("assets/inc/header.inc.php");
 ?>
-    <link rel="stylesheet" href="./Assets/css/priciples.css">
+    <link rel="stylesheet" href="./assets/css/priciples.css">
     <main>
         <section>
             <div class="principle-text-img">
@@ -24,7 +24,7 @@
                         designer with a similar problem to solve.
                     </p>
                 </div>
-                <img src="./Assets/media/contrast.png" alt="Contrast">
+                <img src="./assets/media/contrast.png" alt="Contrast">
             </div>
             <p>
                 Accessibility is a major component of contrast. The Bureau of Internet
