@@ -1,6 +1,6 @@
 <div id="quiz">
     <fieldset>
-        <legend>What role does color contrast play in web design?:</legend>
+        <legend>What role does color contrast play in web design?</legend>
         <div>
             <input type="radio" id="answer1" name="question1" value="incorrect">
             <label for="answer1">It makes the website look more colorful</label>
@@ -57,7 +57,7 @@
         </div>
     </fieldset>
     <fieldset>
-        <legend>What percentage of website homepages fail to meet WCAG 2.2 standards for text contrast, according to WebAIM?:</legend>
+        <legend>What percentage of website homepages fail to meet WCAG 2.2 standards for text contrast, according to WebAIM?</legend>
         <div>
             <input type="radio" id="answer13" name="question4" value="incorrect">
             <label for="answer13">20%</label>
@@ -76,7 +76,7 @@
             </div>
     </fieldset>
     <fieldset>
-        <legend>Why should red and green be avoided together in web design?:</legend>
+        <legend>Why should red and green be avoided together in web design?</legend>
         <div>
             <input type="radio" id="answer17" name="question5" value="incorrect">
             <label for="answer17">It creates too much contrast</label>

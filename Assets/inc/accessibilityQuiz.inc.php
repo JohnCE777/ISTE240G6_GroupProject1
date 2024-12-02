@@ -76,7 +76,7 @@
             </div>
     </fieldset>
     <fieldset>
-        <legend>What is the difference between Deaf and deaf:</legend>
+        <legend>What is the difference between Deaf and deaf</legend>
         <div>
             <input type="radio" id="answer17" name="question5" value="incorrect">
             <label for="answer17">Using complicated language to challenge users</label>

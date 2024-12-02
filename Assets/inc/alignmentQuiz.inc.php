@@ -1,6 +1,6 @@
 <div id="quiz">
     <fieldset>
-        <legend>What is the main purpose of alignment in design?:</legend>
+        <legend>What is the main purpose of alignment in design?</legend>
         <div>
             <input type="radio" id="answer1" name="question1" value="incorrect">
             <label for="answer1">To make the design look more colorful</label>
@@ -19,7 +19,7 @@
         </div>
     </fieldset>
     <fieldset>
-        <legend>According to the "15-second rule" mentioned by David Zheng, what happens if users are not engaged within the first 15 seconds on a website?:</legend>
+        <legend>According to the "15-second rule" mentioned by David Zheng, what happens if users are not engaged within the first 15 seconds on a website?</legend>
         <div>
             <input type="radio" id="answer5" name="question2" value="incorrect">
             <label for="answer5">They are likely to stay longer if the content is well-aligned</label>
