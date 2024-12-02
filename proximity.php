@@ -52,12 +52,11 @@
                 </p>
             </div>
             <div class="principle-example">
-                <h2>Real-World Example</h2>
-                <p>
-                    When you receive a notification, a bright red bubble with white text often 
-                    appears next to the application’s icon on smartphones. This heavily contrasts 
-                    the background color, clearly indicating that the user has new notifications.
-                </p>
+                <h2>Image Examples</h2>
+                <div class="principle-example-wrapper">
+                    <img id="proximity-example-image-good" src="./assets/media/examples/proximity-good.png" alt="Proximity good example">
+                    <img id="proximity-example-image-bad" src="./assets/media/examples/proximity-bad.png" alt="Proximity bad example">
+                </div>
             </div>
         </section>
         <!-- <div id="contrast" class="off">

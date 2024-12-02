@@ -45,9 +45,11 @@
                 </p>
             </div>
             <div class="principle-example">
-                <h2>Real-World Example</h2>
-                <p>
-                </p>
+                <h2>Image Examples</h2>
+                <div class="principle-example-wrapper">
+                    <img id="repeititon-example-image-good" src="./assets/media/examples/repetition-good.png" alt="Repetition good example">
+                    <img id="repeititon-example-image-good" src="./assets/media/examples/repetition-bad.png" alt="Repetition bad example">
+                </div> 
             </div>
         </section>
         <!-- <div id="repetition" class="off">

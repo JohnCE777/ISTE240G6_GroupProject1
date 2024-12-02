@@ -68,9 +68,11 @@
                 </p>
             </div>
             <div class="principle-example">
-                <h2>Real-World Example</h2>
-                <p>
-                </p>
+                <h2>Image Examples</h2>
+                <div class="principle-example-wrapper">
+                    <img id="alignment-example-image-good" src="./assets/media/examples/alignment-good.png" alt="Alignment good example">
+                    <img id="alignment-example-image-good" src="./assets/media/examples/alignment-bad.png" alt="Alignment bad example">
+                </div>
             </div>
         </section>
         <!-- <div id="alignment" class="off">
