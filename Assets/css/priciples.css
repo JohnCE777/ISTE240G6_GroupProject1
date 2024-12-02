@@ -36,3 +36,25 @@
     transition: 0.3s;
     cursor: default;
 }
+
+.principle-example-wrapper {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#principle-clicker:hover {
+    cursor: pointer;
+}
+
+#contrast-example-image-good {
+    display: flex;
+    height: 180px;
+}
+
+#contrast-example-image-bad {
+    display: none;
+    height: 180px;
+}

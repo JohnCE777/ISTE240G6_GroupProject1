@@ -53,13 +53,12 @@
                     people will struggle to read your site. 
                 </p>
             </div>
-            <div class="principle-example">
+            <div class="principle-example" id="principle-clicker">
                 <h2>Real-World Example</h2>
-                <p>
-                    When you receive a notification, a bright red bubble with white text often 
-                    appears next to the application’s icon on smartphones. This heavily contrasts 
-                    the background color, clearly indicating that the user has new notifications.
-                </p>
+                <div class="principle-example-wrapper">
+                    <img id="contrast-example-image-good" src="./assets/media/examples/contrast-good.png" alt="Contrast Example">
+                    <img id="contrast-example-image-bad" src="./assets/media/examples/contrast-bad.png" alt="Contrast Example">
+                </div>
             </div>
         </section>
         <!-- <div id="contrast" class="off">
