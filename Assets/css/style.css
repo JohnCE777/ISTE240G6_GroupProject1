@@ -3,10 +3,7 @@
 @import url("./footer.css");
 @import url("./index.css");
 body {
-    /* font-family: Arial, Helvetica, sans-serif; */
     font-family: "Raleway";
-    /* font-size: 1.1rem; */
-    font-size: 16px;
     background-color: #F0FBFF;
     color: #000000;
     width: 100%;
@@ -19,6 +16,11 @@ main {
     min-height: 50vh;
     margin: 0 auto;
     margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 18px;
+    font-weight: 100;
 }
 
 h1 {
@@ -27,9 +29,20 @@ h1 {
     margin: 20px 0;
 }
 
-p {
+h2 {
+    font-size: 24px;
+    font-weight: 200;
+    margin: 20px 0;
+}
+
+button {
+    font-family: "Raleway";
     font-size: 18px;
     font-weight: 100;
+}
+
+hr {
+    margin: 20px 0;
 }
 
 .refLink {
@@ -89,4 +102,22 @@ p {
     color: white;
     cursor: pointer;
     border: none;
+}
+
+.quiz-offer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 400px;
+}
+
+.quiz-offer-button {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border: none;
+    width: 100%;
+
 }
