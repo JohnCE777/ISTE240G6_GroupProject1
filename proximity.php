@@ -59,6 +59,11 @@
                 </div>
             </div>
         </section>
+        <hr>
+        <div class="quiz-offer">
+            <h2>Ready to test your knowledge?</h2>     
+            <button class="quiz-offer-button"><a href="./proximityquiz.php"></a>Take the Quiz</a></button>      
+        </div>
     </main>
 <?php
     require_once("assets/inc/footer.inc.php");
