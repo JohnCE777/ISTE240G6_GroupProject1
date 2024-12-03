@@ -24,5 +24,5 @@
     
 </main>
 <?php
-    require_once("assets/css/style.css");
+    require_once("assets/inc/footer.inc.php");
 ?>
