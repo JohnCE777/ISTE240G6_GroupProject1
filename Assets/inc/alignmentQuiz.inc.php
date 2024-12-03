@@ -1,3 +1,4 @@
+<h2>Alignment Quiz</h2>
 <div class="quiz">
     <div class="quiz-question">
         <legend>What is the main purpose of alignment in design?</legend>

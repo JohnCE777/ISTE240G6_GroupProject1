@@ -33,20 +33,20 @@
         <br>
         <hr>
         <h1>Meet the Team</h1>
-        <h2>Sam Drody</h2>
+        <h3>Sam Drody</h3>
         <p>
             Born and raised in Miami, Florida, Sam Drody (19) is an aspiring software developer 
             attending Rochester Institute of Technology majoring in Computing and Information 
             Technologies.
         </p>
-        <h2>John Ettipo</h2>
+        <h3>John Ettipo</h3>
         <p>
             John Ettipio is a 4th year computer engineering technology student from a rural 
             town called Springville NY. His hobbies include computers, electronics, and cars. 
             He loves learning new things, and although he believes Comic Sans is the greatest 
             font of all time, he does his best to avoid using it too much.
         </p>
-        <h2>Marcus Moher</h2>
+        <h3>Marcus Moher</h3>
         <p>
             Marcus Moher is a third year student at RIT, hailing from Herndon, Virginia. His 
             hobbies include video games and rock climbing, and he is a fan of pasta and meatballs.

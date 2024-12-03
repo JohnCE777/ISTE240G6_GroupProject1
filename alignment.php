@@ -40,7 +40,7 @@
         </section>
         <section class="principle-examples">
         <div class="principle-example">
-                <h2>Types of Alignment</h2>
+                <h3>Types of Alignment</h3>
                 <p>
                     <b>Left Alignment</b>
                     <br>
@@ -56,7 +56,7 @@
                 </p>
             </div>
             <div class="principle-example">
-                <h2>Typical Misuse Cases</h2>
+                <h3>Typical Misuse Cases</h3>
                 <p>
                     <b>Left Alignment</b>
                     <br>
@@ -68,7 +68,7 @@
                 </p>
             </div>
             <div class="principle-example" onclick="interactiveExample()">
-                <h2>Image Examples</h2>
+                <h3>Image Examples</h3>
                 <div class="principle-example-wrapper">
                     <img id="example-image-good" src="./assets/media/examples/alignment-good.png" alt="Alignment good example">
                     <img id="example-image-bad" src="./assets/media/examples/alignment-bad.png" alt="Alignment bad example">
@@ -77,8 +77,8 @@
         </section>
         <hr>
         <div class="quiz-offer">
-            <h2>Ready to test your knowledge?</h2>     
-            <button class="quiz-offer-button"><a href="./alignmentquiz.php"></a>Take the Quiz</a></button>      
+            <h3>Ready to test your knowledge?</h3>     
+            <a href="./alignmentquiz.php"><button class="quiz-offer-button">Take the Quiz</button></a>      
         </div>
     </main>
 <?php

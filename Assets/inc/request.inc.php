@@ -1,6 +1,6 @@
 <div class="request">
-    <h2><?php echo $row['Name'];?></h2>
-    <h2><?php echo $row['Email'];?></h2>
-    <h2><?php echo $row['Phone'];?></h2>
-    <h2><?php echo $row['DateTime'];?></h2>
+    <h3><?php echo $row['Name'];?></h3>
+    <h3><?php echo $row['Email'];?></h3>
+    <h3><?php echo $row['Phone'];?></h3>
+    <h3><?php echo $row['DateTime'];?></h3>
 </div>

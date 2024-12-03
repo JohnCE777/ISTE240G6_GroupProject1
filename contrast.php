@@ -39,7 +39,7 @@
         </section>
         <section class="principle-examples">
         <div class="principle-example">
-                <h2>Real-World Example</h2>
+                <h3>Real-World Example</h3>
                 <p>
                     When you receive a notification, a bright red bubble with white text often 
                     appears next to the application’s icon on smartphones. This heavily contrasts 
@@ -47,14 +47,14 @@
                 </p>
             </div>
             <div class="principle-example">
-                <h2>Application</h2>
+                <h3>Application</h3>
                 <p>
                     Using red and green together should generally be avoided, as many color blind 
                     people will struggle to read your site. 
                 </p>
             </div>
             <div class="principle-example" id="principle-clicker" onclick="interactiveExample()">
-                <h2>Image Examples</h2>
+                <h3>Image Examples</h3>
                 <div class="principle-example-wrapper">
                     <img id="example-image-good" src="./assets/media/examples/contrast-good.png" alt="Contrast good example">
                     <img id="example-image-bad" src="./assets/media/examples/contrast-bad.png" alt="Contrast bad example">
@@ -63,8 +63,8 @@
         </section>
         <hr>
         <div class="quiz-offer">
-            <h2>Ready to test your knowledge?</h2>     
-            <button class="quiz-offer-button"><a href="./contrastquiz.php"></a>Take the Quiz</a></button>      
+            <h3>Ready to test your knowledge?</h3>     
+            <a href="./contrastquiz.php"><button class="quiz-offer-button">Take the Quiz</button></a>      
         </div>
     </main>
 <?php

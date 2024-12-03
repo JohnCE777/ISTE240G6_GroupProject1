@@ -1,3 +1,4 @@
+<h2>Proximity Quiz</h2>
 <div class="quiz">
     <div class="quiz-question">
     <legend>What does the concept of proximity in design emphasize?</legend>

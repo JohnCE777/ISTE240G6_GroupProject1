@@ -3,11 +3,11 @@
                 <div class="footer-links">
                     <ul>
                         <li>Principles</li>
-                        <li><a href="./contrast">Contrast</a></li>
-                        <li><a href="./repetition">Repetition</a></li>
-                        <li><a href="./alignment">Alignment</a></li>
-                        <li><a href="./proximity">Proximity</a></li>
-                        <li><a href="./accessibility">Accessibility</a></li>
+                        <li><a href="./contrast.php">Contrast</a></li>
+                        <li><a href="./repetition.php">Repetition</a></li>
+                        <li><a href="./alignment.php">Alignment</a></li>
+                        <li><a href="./accessibility.php">Accessibility</a></li>
+                        <li><a href="./proximity.php">Proximity</a></li>
                     </ul>
                     <ul>
                         <li>Other</li>
@@ -19,7 +19,7 @@
                     </ul>
                 </div>
                 <div>
-                    <h2>CRAP Principles</h2>
+                    <h3>CRAP Principles</h3>
                     <b>Web Dev II</b>
                     <p>Marcus Moher, Sam Drody, John Ettipio</p>
                 </div>

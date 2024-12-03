@@ -31,21 +31,21 @@
         </section>
         <section class="principle-examples">
         <div class="principle-example">
-                <h2>Real-World Example</h2>
+                <h3>Real-World Example</h3>
                 <p>
                     Finding inconsistencies, such as a logo that is using the wrong color shade in 
                     the background or a button that does not look right, can indicate a phishing scam.
                 </p>
             </div>
             <div class="principle-example">
-                <h2>Application</h2>
+                <h3>Application</h3>
                 <p>
                     If buttons on a navigation bar are used to navigate the site, the buttons should 
                     look the same. Text across the page should use the same font.
                 </p>
             </div>
             <div class="principle-example" onclick="interactiveExample()">
-                <h2>Image Examples</h2>
+                <h3>Image Examples</h3>
                 <div class="principle-example-wrapper">
                     <img id="example-image-good" src="./assets/media/examples/repetition-good.png" alt="Repetition good example">
                     <img id="example-image-bad" src="./assets/media/examples/repetition-bad.png" alt="Repetition bad example">
@@ -54,8 +54,8 @@
         </section>
         <hr>
         <div class="quiz-offer">
-            <h2>Ready to test your knowledge?</h2>     
-            <button class="quiz-offer-button"><a href="./repetitionquiz.php"></a>Take the Quiz</a></button>      
+            <h3>Ready to test your knowledge?</h3>     
+            <a href="./repetitionquiz.php"><button class="quiz-offer-button">Take the Quiz</button></a>      
         </div>
     </main>
 <?php
