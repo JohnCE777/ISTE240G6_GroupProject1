@@ -3,7 +3,7 @@
 ?>
     <main>
     <?php
-    require_once("assets/inc/proximityQuiz.inc.php");
+        require_once("assets/inc/proximityQuiz.inc.php");
     ?>
     </main>
 <?php

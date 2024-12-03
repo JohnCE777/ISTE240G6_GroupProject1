@@ -61,10 +61,6 @@
                 </div>
             </div>
         </section>
-        <!-- <div id="contrast" class="off">
-            <p>test</p>
-        </div>
-        <button onclick="contrast()">test</button> -->
     </main>
 <?php
     require_once("assets/inc/footer.inc.php");

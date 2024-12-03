@@ -52,10 +52,6 @@
                 </div> 
             </div>
         </section>
-        <!-- <div id="repetition" class="off">
-            <p>test</p>
-        </div>
-        <button onclick="repetition()">test</button> -->
     </main>
 <?php
     require_once("assets/inc/footer.inc.php");

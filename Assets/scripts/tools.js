@@ -13,28 +13,26 @@ function interactiveExample() {
 }
 
 function validateQuiz() {
-    var quiz = document.getElementById("quiz");
-    var questions = quiz.getElementsByTagName("fieldset");
+    var questions = document.getElementsByClassName("quiz-question");
     
     var label = document.getElementById("score");
     var score = 0;
     for(let i = 0; i < questions.length; i++)
     {
         let answers = questions[i].getElementsByTagName("input");
-        let divs = questions[i].getElementsByTagName("div");
+        let listItems = questions[i].getElementsByTagName("li");
         for(let j = 0; j < answers.length; j++)
         {
-            divs[j].style.backgroundColor="#F0FBFF";
             if(answers[j].checked)
             {
                 if(answers[j].value === "correct")
                 {
                     score++;
-                    divs[j].style.backgroundColor="green";
+                    listItems[j].style.backgroundColor="green";
                 }
                 else
                 {
-                    divs[j].style.backgroundColor="red";
+                    listItems[j].style.backgroundColor="red";
                 }
             }
         }

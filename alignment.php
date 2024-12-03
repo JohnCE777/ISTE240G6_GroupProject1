@@ -75,10 +75,6 @@
                 </div>
             </div>
         </section>
-        <!-- <div id="alignment" class="off">
-            <p>test</p>
-        </div>
-        <button onclick="alignment()">test</button> -->
     </main>
 <?php
     require_once("assets/inc/footer.inc.php");
