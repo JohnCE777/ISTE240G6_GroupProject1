@@ -23,6 +23,7 @@ function validateQuiz() {
         let listItems = questions[i].getElementsByTagName("li");
         for(let j = 0; j < answers.length; j++)
         {
+            listItems[j].style.backgroundColor="#e3eaf1";
             if(answers[j].checked)
             {
                 if(answers[j].value === "correct")
