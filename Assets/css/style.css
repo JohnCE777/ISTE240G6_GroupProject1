@@ -37,47 +37,6 @@ p {
     margin-bottom: 1em;
 }
 
-/* css for togglable examples */
-div#accessiblity.off {
-    background-color: red;
-}
-
-div#accessiblity.on {
-    background-color: green;
-}
-
-div#contrast.off {
-    background-color: red;
-}
-
-div#contrast.on {
-    background-color: green;
-}
-
-div#repetition.off {
-    background-color: red;
-}
-
-div#repetition.on {
-    background-color: green;
-}
-
-div#alignment.off {
-    background-color: red;
-}
-
-div#alignment.on {
-    background-color: green;
-}
-
-div#proximity.off {
-    background-color: red;
-}
-
-div#proximity.on {
-    background-color: green;
-}
-
 .request {
     margin-bottom: 20px;
     border-bottom: black solid 1px;
