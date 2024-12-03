@@ -2,8 +2,10 @@
     require_once("assets/inc/header.inc.php");
 ?>
     <main>
-        <h1>Resources</h1><br>
+        <h1>Resources</h1>
         <p>
+            The following resources were used to create this website. From color palettes to information to accessibility
+            cases, these links proved to be invaluable. 
         </p>
         <ul>
             <li><a class="refLink" href="https://diegopiovesan.wordpress.com/wp-content/uploads/2010/07/livro_-_the_non-designers_desi.pdf">
