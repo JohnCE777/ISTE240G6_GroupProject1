@@ -29,11 +29,11 @@ function validateQuiz() {
                 if(answers[j].value === "correct")
                 {
                     score++;
-                    listItems[j].style.backgroundColor="green";
+                    listItems[j].style.backgroundColor="#4EE189";
                 }
                 else
                 {
-                    listItems[j].style.backgroundColor="red";
+                    listItems[j].style.backgroundColor="#FF6767";
                 }
             }
         }
