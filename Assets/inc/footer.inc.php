@@ -21,7 +21,7 @@
                 <div>
                     <h2>CRAP Principles</h2>
                     <b>Web Dev II</b>
-                    <p>Name, Name, Name</p>
+                    <p>Marcus Moher, Sam Drody, John Ettipio</p>
                 </div>
             </div>
         </footer>
