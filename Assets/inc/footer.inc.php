@@ -6,8 +6,8 @@
                         <li><a href="./contrast">Contrast</a></li>
                         <li><a href="./repetition">Repetition</a></li>
                         <li><a href="./alignment">Alignment</a></li>
-                        <li><a href="./accessibility">Accessibility</a></li>
                         <li><a href="./proximity">Proximity</a></li>
+                        <li><a href="./accessibility">Accessibility</a></li>
                     </ul>
                     <ul>
                         <li>Other</li>
