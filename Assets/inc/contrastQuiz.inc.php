@@ -1,5 +1,5 @@
-<h1>Contrast Quiz</h1>
-<br><br>
+<h2
+>Contrast Quiz</h2>
 <div class="quiz">
     <div class="quiz-question">
         <legend>What role does color contrast play in web design?</legend>

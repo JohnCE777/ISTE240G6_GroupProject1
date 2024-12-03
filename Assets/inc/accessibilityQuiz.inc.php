@@ -1,3 +1,4 @@
+<h2>Accessibility Quiz</h2>
 <div id="quiz">
     <div class="quiz-question">
         <legend>Why is accessibility important when creating websites?</legend>

@@ -1,3 +1,4 @@
+<h2>Repetition Quiz</h2>
 <div class="quiz">
     <div class="quiz-question">
         <legend>What is the main purpose of repetition in web design?</legend>

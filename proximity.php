@@ -36,7 +36,7 @@
         </section>
         <section class="principle-examples">
         <div class="principle-example">
-                <h2>Real-World Example</h2>
+                <h3>Real-World Example</h3>
                 <p>
                     A shopping site may group together “Add to Cart”, “Quantity”, and “Buy it Now” 
                     close to the item the shopper is looking at. This will signal the user to know 
@@ -44,7 +44,7 @@
                 </p>
             </div>
             <div class="principle-example">
-                <h2>Application</h2>
+                <h3>Application</h3>
                 <p>
                     Using not only space but color can be used as a clear indicator of separation 
                     between items. Establishing hierarchy through spacy and color are applications 
@@ -52,7 +52,7 @@
                 </p>
             </div>
             <div class="principle-example" onclick="interactiveExample()">
-                <h2>Image Examples</h2>
+                <h3>Image Examples</h3>
                 <div class="principle-example-wrapper">
                     <img id="example-image-good" src="./assets/media/examples/proximity-good.png" alt="Proximity good example">
                     <img id="example-image-bad" src="./assets/media/examples/proximity-bad.png" alt="Proximity bad example">
@@ -61,8 +61,8 @@
         </section>
         <hr>
         <div class="quiz-offer">
-            <h2>Ready to test your knowledge?</h2>     
-            <button class="quiz-offer-button" onclick="window.location.href='proximityQuiz.php';">Take The Quiz</button>       
+            <h3>Ready to test your knowledge?</h3>     
+            <a href="./proximityquiz.php"><button class="quiz-offer-button">Take the Quiz</button></a>      
         </div>
     </main>
 <?php
