@@ -38,18 +38,11 @@
             <li><a class="refLink" href="https://coolors.co/241023-6b0504-a3320b-d5e68d-47a025">
                 Coolors - Color Palette Selector
             </a></li>
-            <li><a class="refLink" href="https://www.boia.org/blog/the-5-most-common-website-accessibility-issues-and-how-to-fix-them">
-                Bureau of Internet Accessibility - The 5 Most Common Website Accessibility Issues (And How To Fix Them)
-            </a></li>
-            <li><a class="refLink" href="https://webaim.org/projects/million">
-                Web Accessibility in Mind - The WebAIM Million
-            </a></li>
+            
             <li><a class="refLink" href="https://thewebsitearchitect.com/does-center-aligned-text-matter-for-accessibility/">
                 The Website Architect - Does Text Alignment Matter for Accessibility and Usability?
             </a></li>
-            <li><a class="refLink" href="https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/spoofing-and-phishing">
-                FBI - Spoofing and Phishing
-            </a></li>
+
             <li><a class="refLink" href="https://en.wikipedia.org/wiki/Contrast_effect">
                 Wikipedia - Contrast Effect
             </a></li>
