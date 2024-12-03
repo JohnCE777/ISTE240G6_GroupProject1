@@ -31,6 +31,11 @@ p {
     font-weight: 100;
 }
 
+.refLink {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 /* css for togglable examples */
 div#accessiblity.off {
     background-color: red;

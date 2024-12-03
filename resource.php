@@ -2,6 +2,7 @@
     require_once("assets/inc/header.inc.php");
 ?>
     <main>
+        <h1>Resources</h1><br>
         <ul>
             <li><li><a class="refLink" href="https://diegopiovesan.wordpress.com/wp-content/uploads/2010/07/livro_-_the_non-designers_desi.pdf">
                 The Non-Designer's Design Book
