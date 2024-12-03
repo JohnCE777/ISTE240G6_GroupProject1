@@ -1,4 +1,4 @@
-<div id="quiz">
+<div class="quiz">
     <div class="quiz-question">
     <legend>What does the concept of proximity in design emphasize?</legend>
         <ul>
@@ -105,7 +105,7 @@
         </ul>
     </div>
     <div>
-    	<button onclick="validateQuiz()">submit</button>
-        <h3 id="score">score:</h3>
+    	<button id="quiz-submit" onclick="validateQuiz()">Submit</button>
+        <h3 id="score">Score:</h3>
     </div>
-</>
+</div>
