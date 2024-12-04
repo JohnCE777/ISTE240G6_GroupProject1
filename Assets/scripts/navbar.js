@@ -19,7 +19,7 @@ function closeNav() {
 }
 
 window.addEventListener("resize", function() {
-    if (window.innerWidth > 800) {
+    if (window.innerWidth > 1000) {
         let nav = document.getElementById("navbar-list");
         let hamburger = document.getElementById("hamburger");
         let x = document.getElementById("x");
@@ -31,7 +31,7 @@ window.addEventListener("resize", function() {
 });
 
 window.addEventListener("resize", function() {
-    if (window.innerWidth < 800) {
+    if (window.innerWidth < 1000) {
         let nav = document.getElementById("navbar-list");
         let hamburger = document.getElementById("hamburger");
         let x = document.getElementById("x");
