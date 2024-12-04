@@ -1,6 +1,5 @@
 <?php
     $title = "Contrast";
-    echo("<title>$title | CRAP Principles</title>");
 
     require_once("assets/inc/header.inc.php");
 ?>

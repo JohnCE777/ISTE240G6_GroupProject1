@@ -1,7 +1,7 @@
 <?php
     $error = "";
     $posted = false;
-
+    $title = "contact";
     require_once("assets/inc/header.inc.php");
 
     $title = "Contact";
