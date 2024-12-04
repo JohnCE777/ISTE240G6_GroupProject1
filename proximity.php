@@ -65,7 +65,7 @@
         <hr>
         <div class="quiz-offer">
             <h3>Ready to test your knowledge?</h3>     
-            <a href="proximityQuiz.php"><button class="quiz-offer-button">Take the Quiz</button></a>      
+            <button class="quiz-offer-button" onclick="window.location.href='proximityQuiz.php';">Take the Quiz</button> 
         </div>
     </main>
 <?php
