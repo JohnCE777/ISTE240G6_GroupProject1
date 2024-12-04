@@ -1,4 +1,7 @@
 <?php
+    $title = "Citations";
+    echo("<title>$title | CRAP Principles</title>");
+
     require_once("assets/inc/header.inc.php");
 ?>
     <main>

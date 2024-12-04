@@ -1,4 +1,7 @@
 <?php
+    $title = "Proximity";
+    echo("<title>$title | CRAP Principles</title>");
+
     require_once("assets/inc/header.inc.php");
 ?>
     <link rel="stylesheet" href="./assets/css/priciples.css">

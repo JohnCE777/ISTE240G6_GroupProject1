@@ -4,6 +4,9 @@
 
     require_once("assets/inc/header.inc.php");
 
+    $title = "Contact";
+    echo("<title>$title | CRAP Principles</title>");
+
     function post() 
     {
         global $mysqli, $error;
