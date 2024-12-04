@@ -3,7 +3,7 @@
 ?>
     <link rel="stylesheet" href="./assets/css/priciples.css">
     <main>
-        <section>
+        <section class="principle">
             <div class="principle-text-img">
                 <div class="principle-text">
                     <h1>Proximity</h1> 

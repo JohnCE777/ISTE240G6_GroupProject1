@@ -1,7 +1,15 @@
-@import url("./fonts.css");
-@import url("./navbar.css");
-@import url("./footer.css");
-@import url("./index.css");
+/* the fonts! */
+@font-face {
+    font-family: "Raleway";
+    font-weight: 100;
+    src: url("../fonts/Raleway-Regular.ttf");
+}
+@font-face {
+    font-family: "Raleway";
+    font-weight: 200;
+    src: url("../fonts/Raleway-Bold.ttf");
+}
+
 body {
     font-family: "Raleway";
     background-color: #F0FBFF;
@@ -329,7 +337,6 @@ footer ul {
         list-style: none;
         padding: 0;
         gap: 120px;
-        /* color: white; */
         font-size: 16px;
         width: 80%;
         margin: 0 auto;
@@ -375,12 +382,6 @@ footer ul {
         display: flex;
         justify-content: space-between;
         align-items: center;
-    }
-    .principle-img-text {
-        width: 600px;
-    }
-    .principle-img-text p {
-        padding-left: 100px;
     }
     .principle-vector {
         width: 200px;
@@ -458,13 +459,19 @@ footer ul {
     #logo {
         width: 100%;
     }
-    .principle-img-text {
+    .principle-text-img {
         align-items: center;
         text-align: center;
+        flex-direction: column;
+        gap: 0;
     }
     .principle-vector {
         display: none;
     }
+    .principle p {
+        text-align: center;
+    }
+
 
     /* footer styles */
     .footer-container {
