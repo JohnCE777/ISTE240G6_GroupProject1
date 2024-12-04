@@ -51,8 +51,8 @@
                     of proximity.
                 </p>
             </div>
-            <div class="principle-example" onclick="interactiveExample()">
-                <h3>Image Examples</h3>
+            <div class="principle-example" id="principle-clicker" onclick="interactiveExample()">
+                <h3>Image Examples (Click Image)</h3>
                 <div class="principle-example-wrapper">
                     <img id="example-image-good" src="./assets/media/examples/proximity-good.png" alt="Proximity good example">
                     <img id="example-image-bad" src="./assets/media/examples/proximity-bad.png" alt="Proximity bad example">

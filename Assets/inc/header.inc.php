@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Group 6 ISTE-240 Project 1</title>
 
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
     <script src="assets/scripts/tools.js"></script>
     <script src="assets/scripts/navbar.js"></script>
 </head>

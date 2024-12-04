@@ -44,8 +44,8 @@
                     look the same. Text across the page should use the same font.
                 </p>
             </div>
-            <div class="principle-example" onclick="interactiveExample()">
-                <h3>Image Examples</h3>
+            <div class="principle-example" id="principle-clicker" onclick="interactiveExample()">
+                <h3>Image Examples (Click Image)</h3>
                 <div class="principle-example-wrapper">
                     <img id="example-image-good" src="./assets/media/examples/repetition-good.png" alt="Repetition good example">
                     <img id="example-image-bad" src="./assets/media/examples/repetition-bad.png" alt="Repetition bad example">

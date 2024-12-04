@@ -1,14 +1,14 @@
 function interactiveExample() {
-    var picOne = document.getElementById("example-image-good");
-    var picTwo = document.getElementById("example-image-bad");
-    
-    if(picOne.style.display === "none")
+    var good = document.getElementById("example-image-good");
+    var bad = document.getElementById("example-image-bad");
+
+    if (good.style.display === "flex")
     {
-        picOne.style.display = "flex";
-        picTwo.style.display = "none";
+        bad.style.display = "flex";
+        good.style.display = "none";
     } else {
-        picOne.style.display = "none";
-        picTwo.style.display = "flex";
+        bad.style.display = "none";
+        good.style.display = "flex";
     }
 }
 
