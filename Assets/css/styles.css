@@ -259,7 +259,7 @@ hr {
     align-items: center;
     justify-content: center;
 }
-#principle-clicker:hover {
+.principle-clicker:hover {
     cursor: pointer;
 }
 #example-image-bad {
