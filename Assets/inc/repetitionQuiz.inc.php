@@ -36,10 +36,10 @@
                 <input type="radio" id="answer7" name="question2" value="incorrect">
                 <label for="answer7">By using only one color throughout the site</label>
             </li>
-            <div>
+            <li>
                 <input type="radio" id="answer8" name="question2" value="incorrect">
                 <label for="answer8">By reducing the number of design elements</label>
-            </div>
+            </li>
         </ul>
     </div>
     <div class="quiz-question">
