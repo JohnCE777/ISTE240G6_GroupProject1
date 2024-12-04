@@ -158,3 +158,26 @@ hr {
     width: 100%;
 
 }
+
+.contactContainer form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 400px;
+}
+
+.contactContainer form input {
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #007bff;
+}
+
+#contact-submit {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
