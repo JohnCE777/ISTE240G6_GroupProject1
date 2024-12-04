@@ -5,7 +5,7 @@
         <h1>Resources</h1>
         <p>
             The following resources were used to create this website. From color palettes to information to accessibility
-            cases, these links proved to be invaluable. 
+            cases, these links proved to be useful for gathering data. 
         </p>
         <ul>
             <li><a class="refLink" href="https://diegopiovesan.wordpress.com/wp-content/uploads/2010/07/livro_-_the_non-designers_desi.pdf">
@@ -46,9 +46,7 @@
             <li><a class="refLink" href="https://en.wikipedia.org/wiki/Contrast_effect">
                 Wikipedia - Contrast Effect
             </a></li>
-            <li><a class="refLink" href="https://www.crazyegg.com/blog/why-users-leave-a-website/">
-                Crazy Egg - Why Users Leave a Website
-            </a></li>
+            
             <li><a class="refLink" href="https://mercuryworks.com/blog/are-you-designing-with-c-r-a-p-2">
                 MercuryWorks - Four Rules at the Foundation of Design
             </a></li>
