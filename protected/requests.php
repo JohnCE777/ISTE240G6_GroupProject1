@@ -15,6 +15,12 @@
 <body>
     <main>
         <div class="requests">
+            <div class="requestsHeader">
+                <h2>Name</h2>
+                <h2>Email</h2>
+                <h2>Phone Number</h2>
+                <h2>Date and Time</h2>
+            </div>
             <?php
                 if($result = $mysqli->query($sql)) {
                     while($row = $result->fetch_assoc()) {

@@ -56,9 +56,40 @@ hr {
     margin-bottom: 1em;
 }
 
+.requestsHeader {
+    display: flex;
+    justify-content: space-around;
+}
+
 .request {
+    display: flex;
+    justify-content: space-around;
     margin-bottom: 20px;
-    border-bottom: black solid 1px;
+    border-radius: 20px;
+    background-color: #e3eaf1;
+}
+.requestSmall {
+    display: none;
+}
+
+@media screen and (max-width: 1200px) {
+    .requestsHeader {
+        display: none;
+    }
+    .request {
+        justify-content: start;
+        flex-direction: column;
+    }
+    .requestSmall {
+        display: block;
+    }
+    .request h3{
+        display: flex;
+        justify-content: space-between;
+        margin: 10px;
+    }
+
+
 }
 
 .success {

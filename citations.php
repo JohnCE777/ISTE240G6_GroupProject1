@@ -2,7 +2,7 @@
     require_once("assets/inc/header.inc.php");
 ?>
     <main>
-    <h1>Resources</h1>
+    <h1>Citations</h1>
     <p>
         The following citations include data that was either paramount to writing the information on this page or
         data that was directly quoted.
