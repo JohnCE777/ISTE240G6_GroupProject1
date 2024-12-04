@@ -1,6 +1,6 @@
 <?php
     $error = "";
-    $posted;
+    $posted = false;
 
     require_once("assets/inc/header.inc.php");
 

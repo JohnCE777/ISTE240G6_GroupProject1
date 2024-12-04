@@ -7,7 +7,7 @@
             The following resources were used to create this website. From color palettes to information to accessibility
             cases, these links proved to be useful for gathering data. 
         </p>
-        <ul>
+        <ol id="resources-list">
             <li><a class="refLink" href="https://diegopiovesan.wordpress.com/wp-content/uploads/2010/07/livro_-_the_non-designers_desi.pdf">
                 The Non-Designer's Design Book
             </a></li>
@@ -53,7 +53,7 @@
             <li><a class="refLink" href="https://www.canva.com/learn/contrasting-colors/">
                 Canva - Designing with contrast: 20 tips from a designer
             </a></li>
-        </ul>
+        </ol>
         
         
     </main>

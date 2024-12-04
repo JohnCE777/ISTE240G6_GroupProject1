@@ -7,7 +7,7 @@
         The following citations include links to information that was either paramount to writing the information
         on this page or data that was directly quoted.
     </p>
-    <ul>
+    <ol id="citations-list">
         <li><a class="refLink" href="https://webaim.org/projects/million">
             Web Accessibility in Mind - The WebAIM Million
         </a></li>
@@ -26,7 +26,7 @@
 
         
 
-    </ul>
+    </ol>
 
     </main>
 <?php

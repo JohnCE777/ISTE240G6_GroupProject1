@@ -181,3 +181,9 @@ hr {
     cursor: pointer;
     border: none;
 }
+
+#resources-list, #citations-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
